@@ -1,4 +1,7 @@
-PASSWORD TO ARCHIVE: injuan
+Pass to rar: injuan
+
+clone repo incase of deletion
+
 <img alt="GitHub" src="https://i.imgur.com/p64YFGG.jpg">
 
 

@@ -1,4 +1,7 @@
-[IMG]https://i.imgur.com/p64YFGG.jpg
+PASSWORD TO ARCHIVE: injuan
+
+
+https://i.imgur.com/p64YFGG.jpg
 
 
 All you have to do is drag your wallet and dictionary.
@@ -9,13 +12,13 @@ Bulk brute - you can transfer a folder with multiple wallets and dictionaries
 Logs brute - Drag and drop the folder with your logs to extract all of the holder's data and find the right password
 Supports logsin any format - with the help of recursive search for passwords and wallets
 
-[​IMG]https://i.imgur.com/8UIMmea.png
+https://i.imgur.com/8UIMmea.png
 
 You can brute the seed-phrase of a given address. This mode is particularly effective if you know part of the seed-phrase.
 
 Support for over 22 networks - including BIP39, Etherium, Cardano, Tron
 
-[​IMG]https://i.imgur.com/NLyU508.png
+https://i.imgur.com/NLyU508.png
 
 Drag and drop a folder with wallets or a text file with the seed-phrases to get balances.
 
@@ -26,7 +29,7 @@ Balance monitor - upload a list of seed-phrases to check their balance regularly
 Supported networks - ETH, BNB, BTC, BCH, LTC, DOGE, TRX, ZEC, DASH, GRS and more to come
 Supports NFT
 
-[​IMG]https://i.imgur.com/v6L6DJ4.png
+https://i.imgur.com/v6L6DJ4.png
 
 • Telegram notifications
 • Detailed results format includes password, seed-phrase, private keys, etc.
@@ -36,5 +39,5 @@ Supports NFT
 • Everything you need to start working is provided - guides, dictionaries, masks, tokens, rules, etc.
 Balance Checker Result
 
-[​IMG]https://i.imgur.com/gZlLHAs.png
+https://i.imgur.com/gZlLHAs.png
 
